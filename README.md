@@ -1,7 +1,7 @@
 # NetFileBox Personal Cloud Setup
 * by Paul S. Russo  paul.russo@netfilebox.com
 * Twitter: [@PaulSRusso](https://twitter.com/@PaulSRusso)
-* View [My Projects](https://paulsrusso.github.io)
+* View [My Projects](https://paulsrusso.github.io/docs)
 
 
 This project automates the installation and configuration of [NGINX](https://www.nginx.com/), [MySQL](https://www.mysql.com/), and [Nextcloud](https://nextcloud.com/) in an isolated environment. It creates a running system in a few simple steps.  
